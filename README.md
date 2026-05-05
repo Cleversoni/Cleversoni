@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Sobre mim
 
-🎯 Estudante de *Análise e Desenvolvimento de Sistemas na *  
+🎯 Estudante de *Análise e Desenvolvimento de Sistemas *  
 
 🚀 Buscando oportunidade de *estágio em desenvolvimento*  
 
