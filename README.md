@@ -38,7 +38,7 @@
 
 #### 🚀 Back-end
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+  <img src="https://skillicons.dev/icons?i=c,java,spring,nodejs" />
 </p>
 
 #### 🌐 Front-end
