@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor em formação | Back-end & Front-end 🚀</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i= C,Python" />
+  <img src="https://skillicons.dev/icons?i=C,C++,Python" />
 </p>
 
 <p align="center">
