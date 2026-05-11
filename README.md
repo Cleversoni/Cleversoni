@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&color=00FFFF&background=00000000&width=550&lines=Java+%7C+Dart+%7C+JavaScript;Backend+e+Mobile;UI%2FUX+com+Figma;Construindo+projetos+reais;Foco+em+evolu%C3%A7%C3%A3o" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&color=00FFFF&background=00000000&width=550&lines=Java+%7C+Dart+%7C+JavaScript;Back-end+e+Mobile;UI%2FUX+com+Figma;Construindo+projetos+reais;Foco+em+evolu%C3%A7%C3%A3o" />
 </div>
 
 ---
